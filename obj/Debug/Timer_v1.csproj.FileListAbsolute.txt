@@ -1,0 +1,33 @@
+E:\Timer Docking Station\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe.config
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.AssemblyReference.cache
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.SuggestedBindingRedirects.cache
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.frmMain.resources
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.frmReport.resources
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.Properties.Resources.resources
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.GenerateResource.cache
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.CoreCompileInputs.cache
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.exe
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.pdb
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe.config
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe.manifest
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.application
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.pdb
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.exe.manifest
+E:\Backup Cafe PC\PD Backup\timer\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.application
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe.config
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe.manifest
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.application
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.exe
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\bin\Debug\Timer_v1.pdb
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.AssemblyReference.cache
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.SuggestedBindingRedirects.cache
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.frmMain.resources
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.frmReport.resources
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.Properties.Resources.resources
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.GenerateResource.cache
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.csproj.CoreCompileInputs.cache
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.exe.manifest
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.application
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.exe
+D:\Timer\Testing software new\Final Software -1920x1080\Timer -v1_6\Timer_v1_5\Timer_v1_4\Timer\Timer_v1\Timer_v1\obj\Debug\Timer_v1.pdb
